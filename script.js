@@ -14,7 +14,7 @@ const perguntas = [
             },
             {
                 texto: "Sim!amo!",
-                afirmacao: "Quis saber como usar IA no seu dia a dia."
+                afirmacao: "Existem muitos, mas alguns mais famosos dentre eles são: Motocross,surfe, paraquedismo, etc."."
             }
         ]
     },
