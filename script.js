@@ -14,7 +14,7 @@ const perguntas = [
             },
             {
                 texto: "Sim!amo!",
-                afirmacao: "Existem muitos, mas alguns mais famosos dentre eles são: Motocross,surfe, paraquedismo, etc."."
+                afirmacao: "Existem muitos, mas alguns mais famosos dentre eles são: Motocross,surfe, paraquedismo, etc."
             }
         ]
     },
