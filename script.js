@@ -13,7 +13,7 @@ const perguntas = [
                 afirmacao: "São muito perigosos, tenho medo de me machucar"
             },
             {
-                texto: "Sim!amo!",
+                texto: "Sim!eu amo!",
                 afirmacao: "Existem muitos, mas alguns mais famosos dentre eles são: Motocross,surfe, paraquedismo, etc."
             }
         ]
